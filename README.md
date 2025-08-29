@@ -11,7 +11,7 @@
   <align="center"><I><sub>and a sound body.</sub></I></align>
     <br/>
     <br/>
-  <img align="center" src="https://komarev.com/ghpvc/?username=s0ulevans&color=6e1111&style=plastic&label=༒︎+kishin+souls+≬+&abbreviated=true">
+  <img align="center" src="https://komarev.com/ghpvc/?username=s0ulevans&color=181818&style=plastic&label=༒︎+kishin+souls+≬+&abbreviated=true">
     <br/>
     <br/>
   <img align="center" src="https://gifcity.carrd.co/assets/images/gallery48/5501d663.gif?v=e3c0bc0f"
