@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**s0ulevans/s0ulevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img align="center" src="https://carcuvorous.carrd.co/assets/images/gallery02/bcf13283.png?v=b471a82b">
+    <br/>
+    <br/>
+  <I><sub>a sound soul</sub></I>
+    <br/>
+  <I><sub>dwells within a sound mind</sub></I>
+    <br/>
+  <I><sub>and a sound body.</sub></I>
+    <br/>
+    <br/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=s0ulevans&color=6e1111&style=plastic&label=༒︎+kishin+souls+≬+&abbreviated=true">
+</p>
